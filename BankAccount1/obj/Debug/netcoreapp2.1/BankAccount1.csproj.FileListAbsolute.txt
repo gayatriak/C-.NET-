@@ -1,0 +1,11 @@
+C:\Users\Gayatri\source\repos\homework\BankAccount1\obj\Debug\netcoreapp2.1\BankAccount1.csprojAssemblyReference.cache
+C:\Users\Gayatri\source\repos\homework\BankAccount1\obj\Debug\netcoreapp2.1\BankAccount1.csproj.CoreCompileInputs.cache
+C:\Users\Gayatri\source\repos\homework\BankAccount1\obj\Debug\netcoreapp2.1\BankAccount1.AssemblyInfoInputs.cache
+C:\Users\Gayatri\source\repos\homework\BankAccount1\obj\Debug\netcoreapp2.1\BankAccount1.AssemblyInfo.cs
+C:\Users\Gayatri\source\repos\homework\BankAccount1\bin\Debug\netcoreapp2.1\BankAccount1.deps.json
+C:\Users\Gayatri\source\repos\homework\BankAccount1\bin\Debug\netcoreapp2.1\BankAccount1.runtimeconfig.json
+C:\Users\Gayatri\source\repos\homework\BankAccount1\bin\Debug\netcoreapp2.1\BankAccount1.runtimeconfig.dev.json
+C:\Users\Gayatri\source\repos\homework\BankAccount1\bin\Debug\netcoreapp2.1\BankAccount1.dll
+C:\Users\Gayatri\source\repos\homework\BankAccount1\bin\Debug\netcoreapp2.1\BankAccount1.pdb
+C:\Users\Gayatri\source\repos\homework\BankAccount1\obj\Debug\netcoreapp2.1\BankAccount1.dll
+C:\Users\Gayatri\source\repos\homework\BankAccount1\obj\Debug\netcoreapp2.1\BankAccount1.pdb
